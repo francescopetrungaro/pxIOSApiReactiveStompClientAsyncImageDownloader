@@ -1,0 +1,42 @@
+PODS:
+  - 500px-iOS-api (1.0.5)
+  - AsyncImageDownloader (1.0.0)
+  - Expecta (0.3.1)
+  - MMPReactiveStompClient (0.1.0):
+    - ReactiveCocoa
+    - SocketRocket
+  - OCMock (3.1.1)
+  - OHHTTPStubs (3.1.6):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/Core (3.1.6)
+  - ReactiveCocoa (2.3.1):
+    - ReactiveCocoa/UI
+  - ReactiveCocoa/Core (2.3.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3.1)
+  - ReactiveCocoa/UI (2.3.1):
+    - ReactiveCocoa/Core
+  - SocketRocket (0.3.1-beta2)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - 500px-iOS-api (~> 1.0.5)
+  - AsyncImageDownloader (~> 1.0.0)
+  - Expecta
+  - MMPReactiveStompClient (~> 0.1.0)
+  - OCMock
+  - OHHTTPStubs
+  - Specta
+
+SPEC CHECKSUMS:
+  500px-iOS-api: f3d2933143178565d499977fb18f1730d6a33376
+  AsyncImageDownloader: 6543d0ebd3e535c54b48149b83ebc4e2115d9f87
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  MMPReactiveStompClient: 8c3d0a45295356e23f444e097633813c57b707ba
+  OCMock: f6cb8c162ab9d5620dddf411282c7b2c0ee78854
+  OHHTTPStubs: 6781373b69e0a67b27239799f11764d0fbefac55
+  ReactiveCocoa: dca75777b9d18990c8714a3a6f2149f29b4d1462
+  SocketRocket: 79a68ae186063c65e1fe6f638b1ae2927aa5f304
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.34.4
